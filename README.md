@@ -14,12 +14,11 @@ TimyxRAMSimulator je C# WinForms aplikacija koja simulira proces optimizacije RA
 - ✅ Simulacija različitih koraka optimizacije
 - ✅ Nasumično generiranje oslobođene memorije
 - ✅ Animirane poruke sa tačkicama
-- ✅ Potpis "Napravio: timyx"
 
 ## Tehnički detalji
 
 - **Framework**: .NET 6.0 Windows Forms
-- **Jezik**: C# (sve metode i varijable na bosanskom bez čćžšđ)
+- **Jezik**: C#
 - **UI**: Tamna tema sa plavim akcentima
 - **Animacije**: Timer-based animacije za profesionalan izgled
 
